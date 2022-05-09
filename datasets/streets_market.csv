@@ -1,0 +1,46 @@
+﻿Food Group,Main Ingredient,Item Name,Full Name,is_Processed,Brand,Weight(oz),Price,Servings,Calories per serving
+Vegtable,Potato,French Fries,"Checkers & Rally's Fries, Famous, Seasoned",Y,National,32,4.49,11,90
+Vegtable,Potato,Chips,"Boulder Canyon Potato Chips, Classic Sea Salt, Kettle Style",Y,National,6.5,3.59,7,160
+Vegtable,Tomato,Diced Tomatoes,Hunts Tomatoes Diced,Y,National,14.5,1.99,3.5,30
+Vegtable,Broccoli,Frozen Broccoli,Birds Eye Steamfresh Broccoli Florets,Y,National,10.8,3.59,3.5,30
+Vegtable,Onion,Frozen Onion Rings,"Alexia Onion Rings, Crispy",Y,National,11,4.99,4,240
+Vegtable,Potato,Potato,Russet Potatoe,N,National,16,1.49,2,180
+Vegtable,Tomato,Tomato,"
+On The Vine Red Tomato",N,National,16,2.19,3,30
+Vegtable,Broccoli,Broccoli,Broccoli Crown,N,National,16,2.99,5,30
+Fruit,Apple,Apple Sauce,Mott's Original Applesauce,Y,National,24,2.99,6,50
+Fruit,Orange,Orange Juice,Tropicana No Pulp,Y,National,52,4.49,7,110
+Fruit,Blueberries,Frozen Blueberries,Earthbound Farm Organic Frozen Blueberries,Y,National,32,7.99,7,80
+Fruit,Blueberries,Blueberries,Fresh Blueberries,N,National,32,5.99,7,80
+Fruit,Orange,Orange,"
+Navel Orange",N,National,16,3,3,70
+Fruit,Apple,Apple,"
+Fuji Large Apple",N,National,16,1.68,2,75
+Protein,Groud Beef,Chili,Hormel Chili No Beans Can,Y,National,15,2.39,2,260
+Protein,Chicken Wings,Frozen Wings,Tyson Any'tizers Bone In Buffalo Chicken Hot Wings Frozen,Y,Private,22,9.99,5,190
+Protein,Chicken Breast,Frozen Chicken Strips,Banquet Chicken Breast Strips,Y,National,24,5.99,8,160
+Protein,Black Beans,Refried Beans,Amy's Kitchen Traditional Vegetarian Refried Black Beans,Y,National,16,3.59,4,70
+Protein,Chickpeas,Hummus,Sabra Classic Hummus,Y,National,10,3.99,10,70
+Protein,Shrimp,Frozen Popcorn Shrimp,Gordon's Crunchy Breaded Popcorn Shrimp,Y,National,14,6.99,5,220
+Protein,Shrimp,Shrimp,Fresh Large Raw Shrimp,N,National,16,9.49,7,80
+Protein,Chickpeas,Chickpeas,"
+S&W Beans Garbanzo",N,National,15.5,1.49,3.5,120
+Protein,Black Beans,Black Beans,"
+Goya Black Beans",N,National,16,1.99,13,80
+Protein,Tiliapa,Tiliapa,Seafood Counter Fish Tilapia Fillet Fresh,N,National,16,7.24,2,260
+Protein,Groud Beef,Groud Beef,Ground Beef 80% Lean 20% ,N,National,16,4.99,4,287
+Protein,Chicken Wings,Chicken Wings,Fresh Chicken Wings,N,National,16,3.59,1,170
+Protein,Chicken Breast,Chicken Breast,"
+Organic Chicken Breasts Boneless",N,National,16,8.99,4,187
+Dairy,Block Cheddar,Shredded Cheddar,Kraft Sharp Cheddar Shredded Cheese,Y,National,8,3.99,8,110
+Dairy,Block Cheddar,Block Cheddar,Cracker Barrel Extra Sharp Yellow Cheddar Cheese,N,National,8,4.99,8,110
+Dairy,Milk,Milk,Cloverland Vitamin D Milk,N,National,128,3.99,16,160
+Dairy,Yogurt,Yogurt,"Chobani Yogurt, Greek",N,National,32,5.99,5,100
+Grain,White Rice,Ready Rice,"
+Bens Original Basmati Ready Rice Side Dish",Y,National,8.5,2.49,1,400
+Grain,White Bread,Frozen Toast,New York Bakery Garlic Texas Toast,Y,National,11.25,3.99,8,160
+Grain,Popcorn Kernals,Popcorn,SkinnyPop Popped Popcorn Original,Y,National,4.4,3.59,4,150
+Grain,White Rice,White Rice,Royal Basmati White Rice,N,National,32,4.09,20,160
+Grain,Popcorn Kernals,Popcorn Kernals,Orville Redenbachers Popping Corn,N,National,30,7.99,20,120
+Grain,Pasta,Pasta,"
+De Cecco Pennette No. 42",N,National,16,2.79,8,200

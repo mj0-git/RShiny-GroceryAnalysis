@@ -1,0 +1,77 @@
+﻿Food Group,Main Ingredient,Item Name,Full Name,is_Processed,Brand,Weight(oz),Price,Servings,Calories per serving,Compare Brand 
+Vegtable,Potato,French Fries,"
+Signature SELECT Potatoes French Fried Classic Cut",Y,Private,32,3.49,11,130,T
+Vegtable,Potato,French Fries,"
+Ore-Ida Potatoes French Fried Fast Food Extra Crispy",Y,National,26,4.29,9,130,T
+Vegtable,Potato,Chips,"
+Lays Potato Chips Classic Party Size",Y,National,13,5.09,13,160,
+Vegtable,Tomato,Diced Tomatoes,Signature SELECT Tomatoes Diced,Y,Private,14.5,1.25,3.5,25,T
+Vegtable,Tomato,Diced Tomatoes,Hunts Tomatoes Diced,Y,National,14.5,1.79,3.5,30,T
+Vegtable,Broccoli,Frozen Broccoli,"
+Signature SELECT Broccoli Florets Petite",Y,Private,16,2.49,5,25,T
+Vegtable,Broccoli,Frozen Broccoli,Birds Eye Steamfresh Broccoli Florets,Y,National,10.8,3,3.5,30,T
+Vegtable,Onion,Frozen Onion Rings,McCain Onion Rings Battered Craft Beer,Y,National,14,3.5,4.5,190,
+Vegtable,Potato,Potato,Russet Potatoe,N,National,16,1.49,2,180,
+Vegtable,Tomato,Tomato,"
+On The Vine Red Tomato",N,National,16,3.99,3,30,
+Vegtable,Broccoli,Broccoli,Broccoli Crown,N,National,16,2.99,5,30,
+Fruit,Apple,Apple Sauce,"
+Motts Applesauce Apple Unsweetened Cups",Y,National,23.4,2.5,6,50,
+Fruit,Orange,Orange Juice,Signature SELECT Orange Juice No Pulp,Y,Private,52,3.79,7,110,T
+Fruit,Orange,Orange Juice,"
+Floridas Natural Orange Juice No Pulp Chilled ",Y,National,52,3,7,110,T
+Fruit,Blueberries,Frozen Blueberries,"
+Signature SELECT Blueberries Whole Unsweetened",Y,Private,48,8.99,10,70,T
+Fruit,Blueberries,Frozen Blueberries,Earthbound Farm Organic Frozen Blueberries,Y,National,48,8.99,10,80,T
+Fruit,Blueberries,Blueberries,Blueberries Prepackaged,N,National,32,4.99,7,80,
+Fruit,Orange,Orange,"
+Navel Oranges Prepacked Bag",N,National,16,1.49,3,70,
+Fruit,Apple,Apple,"
+Fuji Large Apple",N,National,16,1.99,2,75,
+Protein,Groud Beef,Chili,Hormel Chili No Beans Can,Y,National,15,3,2,260,
+Protein,Chicken Wings,Frozen Wings,"
+Foster Farms Chicken Wings Hot & Spicy ",Y,National,16,9.99,4,170,
+Protein,Chicken Breast,Frozen Chicken Strips,Pilgrims Crispy Chicken Breast Strips Frozen Fully Cooked ,Y,National,24,8.99,8,160,
+Protein,Black Beans,Refried Beans,Old El Paso Beans Refried Traditional Can,Y,National,16,2.29,4,70,
+Protein,Chickpeas,Hummus,Sabra Classic Hummus,Y,National,10,5.49,10,70,
+Protein,Shrimp,Frozen Popcorn Shrimp,"
+SeaPak Shrimp & Seafood Co. Shrimp Popcorn Oven Crispy",Y,National,18,8.99,6,230,
+Protein,Shrimp,Shrimp,"
+Seafood Service Counter Shrimp Raw",N,National,16,9.99,7,80,
+Protein,Chickpeas,Chickpeas,"
+S&W Beans Garbanzo",N,National,15.5,1.5,3.5,120,
+Protein,Black Beans,Black Beans,"
+Goya Black Beans",N,National,16,3.19,13,80,T
+Protein,Black Beans,Black Beans,Signature SELECT Beans Black Dry ,N,Private,16,1.99,13,80,T
+Protein,Tiliapa,Tiliapa,Seafood Counter Fish Tilapia Fillet Fresh,N,National,16,8.99,2,260,
+Protein,Groud Beef,Groud Beef,Ground Beef 80% Lean 20% ,N,National,16,4.99,4,287,
+Protein,Chicken Wings,Chicken Wings,"
+Foster Farms Simply Raised Party Wings",N,National,16,5.29,1,170,
+Protein,Chicken Breast,Chicken Breast,"
+Organic Chicken Breasts Boneless",N,National,16,6.49,4,187,
+Dairy,Block Cheddar,Shredded Cheddar,"
+Lucerne Cheese Shredded Sharp Cheddar",Y,Private,8,3.5,8,110,
+Dairy,Block Cheddar,Shredded Cheddar,"
+Sargento Off the Block Cheese Shredded Sharp Cheddar",Y,National,8,4.49,8,110,
+Dairy,Block Cheddar,Block Cheddar,Lucerne Cheese Medium Cheddar,N,Private,8,3.5,8,110,T
+Dairy,Block Cheddar,Block Cheddar,Tillamook Medium Cheddar ,N,National,8,4.49,8,110,T
+Dairy,Milk,Milk,Lucerne Milk Whole 1 Gallon,N,Private,128,5.39,16,160,T
+Dairy,Milk,Milk,"
+Value Corner Whole Milk  1 Gallon",N,National,128,4.59,16,160,T
+Dairy,Yogurt,Yogurt,"
+Open Nature Yogurt Greek Nonfat Strained Plain",N,National,32,4.49,5,100,
+Grain,White Rice,Ready Rice,"
+Bens Original Basmati Ready Rice Side Dish",Y,National,8.5,2.5,1,400,
+Grain,White Bread,Frozen Toast,"
+Pepperidge Farm Texas Toast Garlic",Y,National,11.25,4.49,8,150,
+Grain,Popcorn Kernals,Popcorn,SkinnyPop Popped Popcorn Original,Y,National,4.4,3.99,4,150,
+Grain,White Rice,White Rice,"
+Signature SELECT Rice Enriched Long Grain",N,Private,32,2.49,20,160,T
+Grain,White Rice,White Rice,"
+Mahatma Enriched Rice Extra Long Grain",N,National,32,2.99,20,160,T
+Grain,Popcorn Kernals,Popcorn Kernals,"
+Signature SELECT Corn Kernels White",N,Private,30,3.99,20,120,T
+Grain,Popcorn Kernals,Popcorn Kernals,Orville Redenbachers Popping Corn Gourmet White Corn,N,National,30,5.99,20,120,T
+Grain,Pasta,Pasta,"
+Signature SELECT Pasta Penne",N,Private,16,1.59,8,200,T
+Grain,Pasta,Pasta,Barilla Pasta Penne,N,National,16,1.99,8,200,T

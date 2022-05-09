@@ -1,0 +1,62 @@
+﻿Food Group,Main Ingredient,Item Name,Full Name,is_Processed,Brand,Weight(oz),Price,Servings,Calories per serving,Compare Brand 
+Vegtable,Potato,French Fries,"Great Value Regular Cut French Fried Potatoes, 32 oz",Y,Private,32,1.68,11,100,T
+Vegtable,Potato,French Fries,Ore-Ida Golden Fries French Fried Frozen Potatoe,Y,National,32,3.68,11,90,T
+Vegtable,Potato,Chips,"
+Lays Potato Chips Classic Party Size",Y,National,13,4.48,13,160,
+Vegtable,Tomato,Diced Tomatoes,Great Value Diced Tomatoes In Tomato Juice,Y,Private,14.5,0.72,3.5,25,T
+Vegtable,Tomato,Diced Tomatoes,Hunts Tomatoes Diced,Y,National,14.5,1.18,3.5,30,T
+Vegtable,Broccoli,Frozen Broccoli,"Great Value Steamable Broccoli Florets, Frozen",Y,Private,12,1.12,4,25,T
+Vegtable,Broccoli,Frozen Broccoli,Birds Eye Steamfresh Broccoli Florets,Y,National,10.8,1.97,3.5,30,T
+Vegtable,Onion,Frozen Onion Rings,Nathan's Famous Thick Sliced Battered Onion Rings,Y,National,16,3.46,5,200,
+Vegtable,Potato,Potato,Russet Potatoe,N,National,16,0.98,2,180,
+Vegtable,Tomato,Tomato,"
+On The Vine Red Tomato",N,National,16,1.48,3,30,
+Vegtable,Broccoli,Broccoli,Broccoli Crown,N,National,16,1.72,5,30,
+Fruit,Apple,Apple Sauce,"
+Motts Applesauce Apple Unsweetened Cups",Y,National,24,2.26,6,50,
+Fruit,Orange,Orange Juice,Great Value NFC Orange Juice,Y,Private,52,2.39,7,110,T
+Fruit,Orange,Orange Juice,"
+Floridas Natural Orange Juice No Pulp Chilled ",Y,National,52,3.18,7,110,T
+Fruit,Blueberries,Frozen Blueberries,Great Value Frozen Whole Blueberries,Y,Private,48,7.48,10,80,T
+Fruit,Blueberries,Frozen Blueberries,Wyman's of Maine Frozen Wild Blueberries,Y,National,48,8.99,10,80,T
+Fruit,Blueberries,Blueberries,Fresh Blueberries,N,National,32,3.99,7,80,
+Fruit,Orange,Orange,"
+Navel Orange",N,National,16,1.31,3,70,
+Fruit,Apple,Apple,"
+Fuji Large Apple",N,National,16,1.01,2,75,
+Protein,Groud Beef,Chili,Hormel Chili No Beans Can,Y,National,15,2.28,2,260,
+Protein,Chicken Wings,Frozen Wings,Great Value Buffalo Style Fully Cooked Chicken Wings,Y,National,22,8.92,5,190,
+Protein,Chicken Breast,Frozen Chicken Strips,Pilgrims Crispy Chicken Breast Strips Frozen Fully Cooked ,Y,National,24,8.43,8,160,
+Protein,Black Beans,Refried Beans,Old El Paso Beans Refried Traditional Can,Y,National,16,1.88,4,70,
+Protein,Chickpeas,Hummus,Fresh Cravings Classic Hummus,Y,National,10,3.27,10,90,
+Protein,Shrimp,Frozen Popcorn Shrimp,"
+SeaPak Shrimp & Seafood Co. Shrimp Popcorn Oven Crispy",Y,National,28,9.48,9,230,
+Protein,Shrimp,Shrimp,Fresh Raw All Natural Extra Large Peeled,N,National,16,12.87,7,80,
+Protein,Chickpeas,Chickpeas,"
+S&W Beans Garbanzo",N,National,15.5,1.48,3.5,120,
+Protein,Black Beans,Black Beans,"
+Goya Black Beans",N,National,16,1.76,13,80,T
+Protein,Black Beans,Black Beans,Great Value Black Beans,N,Private,16,1.28,13,100,T
+Protein,Tiliapa,Tiliapa,Seafood Counter Fish Tilapia Fillet Fresh,N,National,16,7.24,2,260,
+Protein,Groud Beef,Groud Beef,Ground Beef 80% Lean 20% ,N,National,16,4.76,4,287,
+Protein,Chicken Wings,Chicken Wings,PERDUE Fresh Chicken Wings,N,National,16,2.68,1,170,
+Protein,Chicken Breast,Chicken Breast,"
+Organic Chicken Breasts Boneless",N,National,16,5.34,4,187,
+Dairy,Block Cheddar,Shredded Cheddar,Great Value Finely Shredded Sharp Cheddar Cheese,Y,Private,8,1.98,8,110,
+Dairy,Block Cheddar,Shredded Cheddar,"
+Sargento Off the Block Cheese Shredded Sharp Cheddar",Y,National,8,3.18,8,110,
+Dairy,Block Cheddar,Block Cheddar,Great Value Whole Medium Cheddar Cheese,N,Private,8,1.86,8,110,T
+Dairy,Block Cheddar,Block Cheddar,Cracker Barrel Extra Sharp Yellow Cheddar Cheese,N,National,8,3.6,8,110,T
+Dairy,Milk,Milk,Great Value Whole Vitamin D Milk,N,Private,128,3.15,16,160,T
+Dairy,Milk,Milk,Cloverland Vitamin D Milk,N,National,128,5.28,16,160,T
+Dairy,Yogurt,Yogurt,Great Value Greek Plain Nonfat Yogurt,N,National,32,3.47,5,100,
+Grain,White Rice,Ready Rice,"
+Bens Original Basmati Ready Rice Side Dish",Y,National,8.5,1.98,1,400,
+Grain,White Bread,Frozen Toast,New York Bakery Garlic Texas Toast,Y,National,11.25,2.64,8,160,
+Grain,Popcorn Kernals,Popcorn,SkinnyPop Popped Popcorn Original,Y,National,6.7,4.2,6,150,
+Grain,White Rice,White Rice,Great Value Long Grain Enriched Rice,N,Private,32,1.46,20,160,T
+Grain,White Rice,White Rice,China Doll Enriched Long Grain Rice,N,National,32,2.53,20,160,T
+Grain,Popcorn Kernals,Popcorn Kernals,Great Value Yellow Popping Corn,N,Private,30,2.24,20,120,T
+Grain,Popcorn Kernals,Popcorn Kernals,Orville Redenbachers Popping Corn Gourmet White Corn,N,National,30,5.12,20,120,T
+Grain,Pasta,Pasta,Great Value Penne Pasta,N,Private,16,0.92,8,200,T
+Grain,Pasta,Pasta,Barilla Pasta Penne,N,National,16,1.58,8,200,T
