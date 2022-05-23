@@ -21,7 +21,7 @@ Following presents three known factors to minimize grocery costs:
     | Streets Market      | Local       | Baltimore/Washington   |
     | Safeway   | Regional        | West Coast/East Coast      |
     | Walmart   | National        | Across the US
-      |
+
     
     In terms of process, an identical basket of randomly sampled products is fetched from each store. Then, applying the ANOVA test will answer the proposed question - of whether store tiers (independent variable) influence grocery prices (dependent variable).
 2. Product Brands – Private vs National
@@ -68,6 +68,30 @@ _Safeway < Streets  Market_
 
 Implementing lower-tailed tests allows us to confirm the hierarchical relationship in the price of store tiers - national < regional < local. In viewing the results, you can see the p-values yield significance in testing whether the mean price of Walmart is less than Safeway (p-vale 0.02041) and the mean price of Walmart is less than Streets Market (p-value 0.008046). Furthermore, this is not the case when testing whether Safeway is less than Streets Market (p-value 0.4217). Therefore, data provide convincing evidence that population prices of product servings in Walmart are lower than Safeway and Streets Market if adhering to an “Even-split” diet. 
 
-2. 
+__2. Product Brands – Private vs National__
 
+The below table depicts a price comparison of private label products against national products:
 
+![](./images/figure8.png)
+
+As mentioned, we apply a lower tailed test to determine whether it is cheaper to purchase private brand products over national brand products:
+
+![](./images/figure9.png)
+
+You can see the p-value of said test result as 0.003553 – providing convincing evidence to reject the null hypothesis. Therefore, concluding that the population prices of private products are lower than national products.   
+
+__3. Diet – Calories and Consumption of Food Groups__
+
+To compare and quantify diet types and their effect on price, we can leverage the “Compare Diets” section within the R-shiny application. The below figure depicts the required input.
+
+![](./images/figure10.png)
+
+ As shown, all diets are selected for comparison. “Calories Range” shows 10,000 to 50,000 calories with “Step” of 5000 – plot the total price of randomly sampled baskets per increment of calories in range. The below figure depicts a linear regression plot showing the rate of the price increase by calories per diet. Note “user” diet is of even-split in food group weighting.
+
+![](./images/figure11.png)
+
+ Viewing the figure, you can see adhering to a “keto” diet yields the highest rate of price change, while “high-carb” is the lowest. In addition, we can numerically depict the rate of change per diet by viewing linear regression coefficients.  
+
+![](./images/figure12.png)
+
+ Results show an estimated coefficient of 0.007963 for “keto” and 0.005458 for “high-carb” – i.e., adhering keto diet costs $0.007963 per calorie while a high-carb diet costs $0.005458 per calorie. Said findings imply a 45% price premium for keto consumers relative to high-carb consumers. Thus, data provide convincing evidence that consumers should intake less protein and more carbs to minimize costs.  
