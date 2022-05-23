@@ -3,6 +3,11 @@
 ## Abstract ##
 This research project intends to derive and evaluate methods to minimize grocery costs. The construct leverages an R-shiny application for price analysis between three grocery store tiers: national, regional, and local. Results show store tiers influence grocery costs given specific diets. Additionally, the selection of product brands (private label vs. national) significantly affects grocery costs.
 
+#### R-Shiny Dashboard ####
+<p align="center">
+  <img  src="./images/dashboard.png">
+</p>
+
 ## Approach ##
 
 Following presents three known factors to minimize grocery costs:
@@ -121,8 +126,4 @@ To compare and quantify diet types and their effect on price, we can leverage th
 
     ![](./images/figure13.png)
 
- ## Dashboard Screenshot ##
-<p align="center">
-  <img  src="./images/dashboard.png">
-</p>
 
