@@ -3,7 +3,7 @@
 ## Abstract ##
 This research project intends to derive and evaluate methods to minimize grocery costs. The construct leverages an R-shiny application for price analysis between three grocery store tiers: national, regional, and local. Results show store tiers influence grocery costs given specific diets. Additionally, the selection of product brands (private label vs. national) significantly affects grocery costs.
 
-## Overview ##
+## Approach ##
 
 Following presents three known factors to minimize grocery costs:
 
@@ -31,6 +31,15 @@ Following presents three known factors to minimize grocery costs:
 3. Diet – Calories and Consumption of Food Groups
 
     Expenditure on groceries is significantly dependent on the quantity and types of foods you eat. Thus, it’s essential to consider various types of diets and desired calories to minimize grocery costs. We can incorporate this factor by enabling the input of desired calories and the percentage intake of said calories from each food group - vegetables, fruit, protein, dairy, and grain. Upon user input, a randomly sampled basket of groceries is fetched in accordance with desired calories and food group weighting. Note that the price will reflect the product by serving size.
+
+    We will consider four diets constrained to fifty-thousand calories. The following present food group weighting for each type of diet:
+
+    | Diet        | Food Group weighting           | 
+    | ------------- |-------------| 
+    | Even-split      | Vegetables: 0.2, Fruit: 0.2, Protein: 0.2, Dairy: 0.2, Grain:0.2 | 
+    | Keto     | Vegetables: 0.2, Fruit: 0, Protein: 0.5, Dairy: 0.2, Grain:0.1      | 
+    | Vegan | Vegetables: 0.3, Fruit: 0.3, Protein: 0, Dairy: 0.2, Grain:0.2      |
+    | High carb | Vegetables: 0.2, Fruit: 0.1, Protein: 0.1, Dairy: 0.1, Grain:0.5      |  
 
 ## Results ##
 
@@ -95,3 +104,25 @@ To compare and quantify diet types and their effect on price, we can leverage th
 ![](./images/figure12.png)
 
  Results show an estimated coefficient of 0.007963 for “keto” and 0.005458 for “high-carb” – i.e., adhering keto diet costs $0.007963 per calorie while a high-carb diet costs $0.005458 per calorie. Said findings imply a 45% price premium for keto consumers relative to high-carb consumers. Thus, data provide convincing evidence that consumers should intake less protein and more carbs to minimize costs.  
+
+ ## Run Instructions ##
+
+ 1. Install Required Libraries
+    
+    ``` 
+    library(shiny)
+    library(tidyr)
+    library(DT)
+    library(ggplot2)
+    library(dplyr)
+    library(shinyWidgets)
+    ```
+2.  Open app.R in R Studio, and select “Run App”
+
+    ![](./images/figure13.png)
+
+ ## Dashboard Screenshot ##
+<p align="center">
+  <img  src="./images/dashboard.png">
+</p>
+
